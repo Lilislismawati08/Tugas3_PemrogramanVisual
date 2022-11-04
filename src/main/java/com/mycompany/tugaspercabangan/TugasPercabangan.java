@@ -33,7 +33,7 @@ public class TugasPercabangan {
             System.out.println("Anda Menginputkan Bilangan Ganjil");
         } 
     } else {
-        System.out.println("Bilangan yang diinput harus angka");
+        System.out.println("Anda Harus Menginputkan Angka");
     }
     }
 }
